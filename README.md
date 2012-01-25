@@ -8,7 +8,7 @@ Setec Astronomy counter-acts when certain Packages are used - e.g. email / calen
 How does it work
 ================
 
-The APP is watching the System-Log for indications that an app is started or brought to background. You can configure Actions on these events like killing the app or playing a sound. 
+The APP is watching the System-Log for indications that an app is started or brought to foreground. You can configure Actions on these events like killing the app and/or playing a sound. 
 
 Known Issues
 ============
@@ -20,4 +20,4 @@ Unprotected Information leaks
 
 ICS
 ---
-on ICS killing works only reliable if settings > developer options > Don't keep Activitys is selected
+ on ICS killing works only reliable ( means x>1 times ) if settings > developer options > Don't keep Activitys is selected
