@@ -1,0 +1,10 @@
+<resources>
+
+    <string-array name="modes">
+        <item>IGNORE</item>
+		<item>KILL</item>
+		<item>SOUND</item>
+        <item>KILLANDSOUND</item>
+    </string-array>
+    
+</resources>

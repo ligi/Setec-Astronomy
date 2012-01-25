@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setec Astronomy</string>
+    <string name="setec_astronomy_service_stopped">Setec Astronomy Service stopped</string>
+    <string name="setec_astronomy_service_started">Setec Astronomy Service started</string>
+</resources>
