@@ -22,12 +22,12 @@ class CommandAndPackageParser {
 			pkg=pkg.replace("Starting ","");
 			
 			if (pkg.contains(":"))
-				pkg=pkg.substring(pkg.lastIndexOf(":"));
+				pkg=pkg.substring(pkg.lastIndexOf(":")+1);
 			
 			if (pkg.contains(","))
 				pkg=pkg.substring(0,pkg.indexOf(","));
 			
-			if (pkg.contains("("))
+			if (pkg.contains("/"))
 				pkg=pkg.substring(0,pkg.indexOf("/"));
 			
 			if (pkg.equals("org.ligi.setec_astronomy")) // we do not want to process our selves 
