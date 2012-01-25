@@ -21,3 +21,10 @@ Unprotected Information leaks
 ICS
 ---
  on ICS killing works only reliable ( means x>1 times ) if settings > developer options > Don't keep Activitys is selected
+
+
+License
+=======
+
+ GPLv3
+
