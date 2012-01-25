@@ -15,10 +15,23 @@ class CommandAndPackageParser {
 			
 			parse(log_line.trim());
 			
-			if (!pkg.contains(".")||pkg.equals("org.ligi.intentalert"))
+			// postprocess the package name
+			if (!pkg.contains(".")) // no point -> not a good package name
 				command="INVALID";
 			
 			pkg=pkg.replace("Starting ","");
+			
+			if (pkg.contains(":"))
+				pkg=pkg.substring(pkg.lastIndexOf(":"));
+			
+			if (pkg.contains(","))
+				pkg=pkg.substring(0,pkg.indexOf(","));
+			
+			if (pkg.contains("("))
+				pkg=pkg.substring(0,pkg.indexOf("/"));
+			
+			if (pkg.equals("org.ligi.setec_astronomy")) // we do not want to process our selves 
+				command="INVALID";
 		}
 
 		private void parse(String log_line) {
