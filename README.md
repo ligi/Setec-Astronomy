@@ -1,9 +1,9 @@
 What is it
 ==========
 
-Sometimes you want to give somebody your phone or your tablet - for example to give a Hands-On experience on your App. But these Devices often contain highly sensitive Information ( Mail, Notes, Calendar, ..) 
+Sometimes you want to give somebody your phone or your tablet - for example to give a Hands-On experience on your App. But these Devices often contain highly sensitive Information ( Your Mail, Notes, Calendar-entrys, ..) 
 One often gets nervous whether the one you gave the device is really just doing the thing you expect him to do.
-Setec Astronomy warns you when certain Intents are triggered - e.g. email / calendar
+Setec Astronomy counter-acts when certain Packages are used - e.g. email / calendar
 
 How does it work
 ================
