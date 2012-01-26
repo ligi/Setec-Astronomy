@@ -33,6 +33,14 @@ ICS
 ---
  on ICS killing works only reliable ( means x>1 times ) if settings > developer options > Don't keep Activitys is selected
 
+Links
+=====
+
+ * [The APP on the Android Market](http://market.android.com/details?id=org.ligi.setec_astronomy)
+ * [Code](http://github.com/ligi/Setec-Astronomy)
+ * [Issues](http://github.com/ligi/Setec-Astronomy/issues)
+ * [Ligi on G+](http://plus.google.com/104849265443273982798)
+ * [Ligi's blog](http://ligi.de)
 
 License
 =======
