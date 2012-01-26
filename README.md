@@ -15,11 +15,11 @@ Why that name?
 
 A lot of people are asking this - thats why I make one paragraph in this ReadMe about that. The working Title was IntentAlert, but I wanted a better name that is not speaking too directly too much. "Setec Astronomy" is an Anagram of "too many secrets" used in the great movie Sneakers. Here are 3 of my favourite Quotes of this movie:
 
-#1 Cosmo: There's a war out there, old friend. A world war. And it's not about who's got the most bullets. It's about who controls the information. What we see and hear, how we work, what we think... it's all about the information! 
+ #1 Cosmo: There's a war out there, old friend. A world war. And it's not about who's got the most bullets. It's about who controls the information. What we see and hear, how we work, what we think... it's all about the information! 
 
-#2 Cosmo: The world isn't run by weapons anymore, or energy, or money. It's run by little ones and zeroes, little bits of data. It's all just electrons. 
+ #2 Cosmo: The world isn't run by weapons anymore, or energy, or money. It's run by little ones and zeroes, little bits of data. It's all just electrons. 
 
-#3 Whistler: Anybody want to shut down the Federal Reserve? 
+ #3 Whistler: Anybody want to shut down the Federal Reserve? 
 
 Known Issues
 ============
