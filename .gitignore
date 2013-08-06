@@ -1,5 +1,7 @@
+.gradle
 .classpath
 .project
+build/
 bin/
 gen/
 proguard.cfg
