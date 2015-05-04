@@ -3,13 +3,16 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.5.+'
+        classpath 'com.android.tools.build:gradle:1.2.2'
     }
 }
 
 apply plugin: 'android'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "18.0.1"
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+    lintOptions {
+         abortOnError false
+    }
 }
