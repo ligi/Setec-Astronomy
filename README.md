@@ -1,3 +1,5 @@
+[![Build Status](https://snap-ci.com/ligi/Setec-Astronomy/branch/master/build_image)](https://snap-ci.com/ligi/Setec-Astronomy/branch/master)
+
 What is it
 ==========
 
@@ -36,11 +38,10 @@ ICS
 Links
 =====
 
- * [The APP on the Android Market](http://market.android.com/details?id=org.ligi.setec_astronomy)
  * [Code](http://github.com/ligi/Setec-Astronomy)
  * [Issues](http://github.com/ligi/Setec-Astronomy/issues)
  * [Ligi on G+](http://plus.google.com/104849265443273982798)
- * [Ligi's blog](http://ligi.de)
+ * [Ligi's landing-page](http://ligi.de)
 
 License
 =======
